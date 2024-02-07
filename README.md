@@ -13,7 +13,7 @@ The one thing I miss from Windows is [![](https://github.com/1j01/jspaint/blob/m
 ---
 >14:38, 24. November, 2022
 ### Git Push
-![img](https://github.com/davidjrb/davidjrb.github.io/blob/master/images/bwghxs.png)
+![img](https://raw.githubusercontent.com/davidjrb/davidjrb.github.io/master/images/bwghxs.png)
 
 My first attempt at pushing to github... ¯\\\_(ツ)\_/¯
 
